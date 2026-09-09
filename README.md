@@ -48,6 +48,6 @@ I write about things I actually try — infrastructure, automation, backend syst
 
 ## GitHub
 
-<p align="left">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=choi-jiwoong&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Jiwoong's GitHub stats" />
-</p>
+Public repositories, experiments and contributions are available on my profile.
+
+**→ [github.com/choi-jiwoong](https://github.com/choi-jiwoong)**
