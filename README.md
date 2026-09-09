@@ -1,9 +1,53 @@
-## Git Stats 
+# Jiwoong Choi
 
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choi-jiwoong&theme=cobalt)](https://github.com/choi-jiwoong) | [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=choi-jiwoong&theme=cobalt)](https://github.com/choi-jiwoong) |
-| ------------- | ------------- |
+**DevOps · Backend · Automation · AI**
 
-## Top Repositories
+I build reliable systems, automate repetitive work, and explore how AI agents can fit into real engineering workflows.
 
-|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=choi-jiwoong&repo=serverless-api-gateway&theme=cobalt)](https://github.com/choi-jiwoong/serverless-api-gateway) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=choi-jiwoong&repo=redis-pupsub&theme=cobalt)](https://github.com/choi-jiwoong/redis-pupsub)
-| ------------- | ------------- |
+[**JIWOONG.dev →**](https://www.sea4.net)
+
+```text
+$ whoami
+choi-jiwoong
+
+$ cat focus.txt
+Cloud Infrastructure
+Backend Systems
+Platform Automation
+AI Agents
+
+$ echo $MOTTO
+"Automate the boring things."
+```
+
+## What I work on
+
+- **Cloud & Infrastructure** — AWS, Terraform, containerized environments
+- **Backend** — Java / Spring Boot, Node.js, Redis, MySQL
+- **Platform & Automation** — Docker, Kubernetes, CI/CD, operational tooling
+- **AI Engineering** — AI agents, model evaluation, harness engineering
+
+## Selected work
+
+| Project | What it is |
+| --- | --- |
+| [**serverless-api-gateway**](https://github.com/choi-jiwoong/serverless-api-gateway) | AWS Lambda + API Gateway + DynamoDB serverless API experiments |
+| [**spring-boot-redis-pubsub**](https://github.com/choi-jiwoong/spring-boot-redis-pubsub) | Spring Boot implementation and notes for Redis Pub/Sub |
+| [**mysql-operator**](https://github.com/choi-jiwoong/mysql-operator) | MySQL Operator / InnoDB Cluster experiments on Kubernetes |
+| [**JIWOONG.dev**](https://github.com/choi-jiwoong/choi-jiwoong.github.io) | Notes on DevOps, backend, infrastructure and AI engineering |
+
+## Stack
+
+`AWS` · `Terraform` · `Docker` · `Kubernetes` · `Java` · `Spring Boot` · `Node.js` · `Redis` · `MySQL` · `GitHub Actions`
+
+## Writing
+
+I write about things I actually try — infrastructure, automation, backend systems, AI models and agent workflows.
+
+**→ [www.sea4.net](https://www.sea4.net)**
+
+## GitHub
+
+<p align="left">
+  <img height="155" src="https://github-readme-stats.vercel.app/api?username=choi-jiwoong&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Jiwoong's GitHub stats" />
+</p>
